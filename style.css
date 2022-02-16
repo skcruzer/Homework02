@@ -7,8 +7,8 @@
   background-color: aliceblue;
 }
 
-nav {
-  
+.nav-item {
+  float: right;
 }
 
 .center {
