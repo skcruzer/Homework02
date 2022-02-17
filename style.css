@@ -7,6 +7,15 @@
   background-color: aliceblue;
 }
 
+/* styling nav bar to make it look better */
+.navbar-brand {
+  font-family: 'Raleway', sans-serif;
+}
+
+.nav-item {
+  font-family: 'Raleway', sans-serif;
+}
+
 .center {
   display: block;
   margin-left: auto;
@@ -63,17 +72,26 @@
 }
 
 .form {
+  font-family: 'Raleway', sans-serif;
   border: 3px solid rgb(51, 51, 63);
   padding: 20px;
   margin-top: 100px;
   margin-left: 300px;
   margin-right: 300px;
+  background-color: white;
 }
 
-@media screen and (max-width: 992px) {
-
+.labels {
+  padding-top: 15px;
+  padding-bottom: 5px;
 }
 
-@media screen and (max-width:768px) { 
-
+/* CONTACT PAGE ONLY */
+.contact {
+  text-align: center;
+  padding: 5px;
 }
+
+@media screen and (max-width: 992px) {}
+
+@media screen and (max-width:768px) {}
