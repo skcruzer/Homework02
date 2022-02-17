@@ -7,10 +7,6 @@
   background-color: aliceblue;
 }
 
-.nav-item {
-  float: right;
-}
-
 .center {
   display: block;
   margin-left: auto;
@@ -75,7 +71,7 @@
 }
 
 @media screen and (max-width: 992px) {
-  
+
 }
 
 @media screen and (max-width:768px) { 
