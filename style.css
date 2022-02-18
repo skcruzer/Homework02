@@ -3,8 +3,6 @@
   color: rgb(51, 51, 63);
   font-size: 40px;
   line-height: 72px;
-  text-align: center;
-  background-color: aliceblue;
 }
 
 /* styling nav bar to make it look better */
@@ -21,25 +19,21 @@
   margin-left: auto;
   margin-right: auto;
   width: 50%;
-  padding-top: 10px;
-  padding-right: 30px;
-  padding-bottom: 10px;
-  padding-left: 30px;
 }
 
-.Bio {
+.col-sm-6 {
   font-family: 'Raleway', sans-serif;
-  text-align: center;
+  
   font-size: 14px;
   color: rgb(51, 51, 63);
-  margin-top: 30px;
+  /* margin-top: 30px;
   margin-right: 300px;
   margin-left: 300px;
   margin-bottom: 30px;
   padding-top: 10px;
   padding-right: 10px;
   padding-bottom: 10px;
-  padding-left: 10px;
+  padding-left: 10px; */
   border: 5px solid rgb(51, 51, 63);
   background-color: aliceblue;
 }
