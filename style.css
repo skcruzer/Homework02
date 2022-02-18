@@ -9,7 +9,11 @@
 .navbar-brand {
   font-family: 'Raleway', sans-serif;
   padding-left: 2px;
+  padding-right: 2px;
   font-size: 30px;
+  font-weight: bolder;
+  color: white;
+  background-color: aliceblue;
   border: 3px solid rgb(51, 51, 63);
 }
 
